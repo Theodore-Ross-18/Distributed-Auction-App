@@ -1,0 +1,9 @@
+[console_scripts]
+backplane = python_banyan.backplane.backplane:bp
+blc = python_banyan.utils.banyan_launcher.blc:blc
+blk = python_banyan.utils.banyan_launcher.blk:blk
+bls = python_banyan.utils.banyan_launcher.bls:bls
+mgw = python_banyan.utils.mqtt_gateway.mqtt_gateway:mqtt_gateway
+monitor = python_banyan.utils.monitor.monitor:monitor
+tgw = python_banyan.utils.tcp_gateway.tcp_gateway:tcp_gateway
+
